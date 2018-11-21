@@ -1,0 +1,3 @@
+Components need : LM35 Temperature sensor, ATmega328p, ESP8266 wifi module, Capacitors(22pf), Osilator(16MHz), Push Botton, 1kohm resistance.
+To get real time data of temperature to your mobile, have to install a app to your mobile named POCKET IoT (https://play.google.com/store/apps/details?id=com.buzsikdev.pocketiot&hl=en)
+put your READ API key to your POCKET IoT app.
